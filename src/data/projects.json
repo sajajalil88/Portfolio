@@ -1,26 +1,45 @@
 [
   {
-    "title": "Project A",
+    "title": "Clinic Management System (cms)",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Admin panel for a medical system done using laravel. The main goal of this project was to apply security principles such as authentication, authorization, sql injection, and penetration testing.",
+    "skills": ["Laravel", "MySQL","SQL"],
+    "source": "https://github.com/zahraadiabharakebas/computer-security"
   },
   {
-    "title": "Project B",
+    "title": "FreshFit App",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "FreshFit Application(ecomm) that serves healthy menu options. It contains functionalities like authentication, menu purchase, meal's customization and order placing..",
+    "skills": ["React Native", "Mango DB", "Node","Express", "Figma"],
+    "source": ""
+  },
+  
+  {
+    "title": "Service catalog - murex",
+    "imageSrc": "projects/project.png",
+    "description": "Murex product for internal use, that visualizes murex’s data using Ag-grid library for data visualization integrated within an angular project. Worked on several complicated features like sorting, smooth filtering, row grouping and others..",
+    "skills": ["Java", "Angular", "Data Visualization"],
+    "source": ""
   },
   {
-    "title": "Project C",
+    "title": "Travel Website",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Developed a Full-Stack application that serves as a platform to showcase travel plans, allowing users to seamlessly reserve and delete plans. Additionally, it features a robust search functionality to efficiently filter through available plans.",
+    "skills": ["React", "Laravel", "MYSQL"],
+    "source": "https://github.com/zahraadiabharakebas/travilo-react-js"
+  },
+  {
+    "title": "Chat Application using Node js & socket.io",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a real-time chat application using Socket.io that powers real-time, two-way communication, allowing seamless message exchanges,and user connection/disconnection notifications",
+    "skills": ["Node", "Express", "Socket.io"],
+    "source": "https://github.com/sajajalil88/Chat-App"
+  },
+  {
+    "title": "Project Management WebApp",
+    "imageSrc": "projects/project.png",
+    "description": "Full Stack Web App developed to manage projects for students on admin level. Features: calender for projects, creation of projects,groups, tasks on sprints, note taking, UI visualization (projects progress,tasks progress..)",
+    "skills": ["Laravel", "MYSQL", "UXUI","Figma"],
+    "source": "https://github.com/zahraadiabharakebas/pm-kabalan"
   }
 ]
