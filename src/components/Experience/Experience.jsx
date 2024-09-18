@@ -32,8 +32,7 @@ export const Experience = () => {
           <li className={styles.aboutItem}>
             <div className={styles.aboutItemText}>
               <h3>Software Engineer Intern</h3>
-              <br></br>
-
+                              <br></br>
               <p>
               Contributed to the development of the Technical Architecture Portal by implementing features like sorting, filtering, and searching, while enhancing both technical and soft skills.
               </p>

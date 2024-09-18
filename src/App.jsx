@@ -1,6 +1,8 @@
 
 import styles from "./App.module.css"
+import { Award } from "./components/Awards/Award"
 import { Contact } from "./components/Contact/Contact"
+import { Education } from "./components/Education/Education"
 import { Experience } from "./components/Experience/Experience"
 import { Hero } from "./components/Hero/Hero"
 import { Navbar } from "./components/Navbar/Navbar"
@@ -12,12 +14,13 @@ function App() {
 
   return (
    <div className={styles.App}>
-   <Navbar />
-   <Hero />
-   <Skills />
+   <Navbar/>
+   <Hero/>
    <Experience />
-   <Projects />
-   <Contact />
+   <Skills/>
+   <Projects/>
+   <Education/>
+   <Contact/>
    </div>
   )
 }
