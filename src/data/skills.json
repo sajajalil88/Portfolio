@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Java",
+    "imageSrc": "skills/jaava.png"
+  },
+  {
+    "title": "C++",
+    "imageSrc": "skills/c++.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "Laravel",
+    "imageSrc": "skills/laravel.png"
+  },
+  {
+    "title": "MERN Stack",
+    "imageSrc": "skills/mern.png"
+  },
+  {
+    "title": "MYSQL",
+    "imageSrc": "skills/mysql.png"
+  },
+  {
+    "title": "Java Script",
+    "imageSrc": "skills/js.png"
+  },
+  {
+    "title": "Angular",
+    "imageSrc": "skills/angular.png"
+  },
+  {
+    "title": "Swift",
+    "imageSrc": "skills/swift.png"
+  },
+  {
+    "title": "React Native",
+    "imageSrc": "skills/rn.png"
+  },
+  {
+    "title": "Firebase",
+    "imageSrc": "skills/fb.png"
+  },
+  {
+    "title": "UXUI",
+    "imageSrc": "skills/uxui.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  }
+]
