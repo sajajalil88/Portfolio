@@ -1,0 +1,20 @@
+[
+    {
+      "title": "2024 Class Valedictorain",
+      "imageSrc": "projects/project.png",
+      "description" :"Graduated as class valedictorian in the cs class of 2024, where i recieved the highest gpa during the whole 3 years."
+
+    },
+    {
+      "title": "Dean's Honor List",
+      "imageSrc": "projects/project.png",
+      "description" :"Recieved recognition letter for my performance during the spring semesters."
+    },
+    
+    {
+      "title": "First Place in Open AI Competition",
+      "imageSrc": "projects/project.png",
+      "description":"Won the first place in the open Day AI competition by presenting my final year project Medisim VR that includes modern AI technologies."
+    }
+  ]
+  
